@@ -1,6 +1,6 @@
 
 # 🚀 Welcome to SPARK 2025: Week 1 
-**Clinical and Imaging Primer** _Click picture below to access_
+**Clinical and Imaging Primer** _Click the picture below to access the recorded Video_
 [![Introduction to medical imaging: An Overview of X-Ray, CT and US](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025%3A%20Week%201%20-%20Intro%20to%20Python/Introduction%20to%20medical%20imaging%3A%20An%20Overview%20of%20X-Ray%2C%20CT%20and%20US.png)](https://youtu.be/TnZL1HBI4VY)
 
 ---
@@ -12,12 +12,13 @@
 [Video | Introduction to GitHub Classroom](https://youtu.be/fkEFcZu9ItQ)   
 [Video | How to Access Training Material and Submit Assignments](https://youtu.be/_qSnp0ScHpk)   
 [Slides | Access Slides to all Week 1 Session](https://github.com/SPARK-Academy-2025/SPARK-2025/tree/main/SPARK%202025%3A%20Week%201%20-%20Intro%20to%20Python/Week%201%20Slide)   
+[Assignments | Access Team Assignment](https://classroom.github.com/a/_RCX3LWo)  
 
 # Python Fundamentals 🐍  
 
 *"Every expert was once a beginner. Great journeys start with a single step."* – Keep going!  
 
-**Introduction to Python** _Click picture below to access_
+**Introduction to Python** _Click the picture below to access the recorded Video_
 [![Introduction to Python](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025%3A%20Week%201%20-%20Intro%20to%20Python/Introduction%20to%20Python.png)](https://youtu.be/T9z8_yx6UEU)
 
 
