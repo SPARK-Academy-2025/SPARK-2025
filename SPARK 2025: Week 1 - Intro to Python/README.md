@@ -1,7 +1,21 @@
 
-# 🚀 Welcome to SPARK 2025 - Week 1: Python Fundamentals 🐍  
+# 🚀 Welcome to SPARK 2025: Week 1 
+**Clinical and Imaging Primer** 
+[![Introduction to medical imaging: An Overview of X-Ray, CT and US](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025%3A%20Week%201%20-%20Intro%20to%20Python/Introduction%20to%20medical%20imaging%3A%20An%20Overview%20of%20X-Ray%2C%20CT%20and%20US.png)](https://youtu.be/TnZL1HBI4VY)
+
+---
+
+# GitHub and Kaggle Set up
+[Introduction to Kaggle](https://youtu.be/0nKvu6x9dU4)  
+[Introduction to GitHub and Kaggle](https://youtu.be/XFfogAFQUPY)   
+[Introduction to GitHub Classroom](https://youtu.be/fkEFcZu9ItQ) 
+
+# Python Fundamentals 🐍  
 
 *"Every expert was once a beginner. Great journeys start with a single step."* – Keep going!  
+**Clinical and Imaging Primer** 
+[![Introduction to Python](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025%3A%20Week%201%20-%20Intro%20to%20Python/Introduction%20to%20Python.png)](https://youtu.be/T9z8_yx6UEU)
+
 
 [Setup](#setup-and-installation) | [Python Basics](#python-variables-and-data-types) | [Data Structures](#basic-data-structures) | [List Comprehension](#list-comprehension)
 
