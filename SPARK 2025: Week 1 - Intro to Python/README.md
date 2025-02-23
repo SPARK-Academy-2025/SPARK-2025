@@ -6,11 +6,11 @@
 ---
 
 # GitHub and Kaggle Set up
-[Video | Introduction to Kaggle](https://youtu.be/0nKvu6x9dU4)  
-[Video | Introduction to GitHub and Kaggle](https://youtu.be/XFfogAFQUPY)   
-[Video | Introduction to GitHub Classroom](https://youtu.be/fkEFcZu9ItQ) 
-[Video | Introduction to GitHub Classroom](https://youtu.be/fkEFcZu9ItQ) 
-[Video | How to Access Training Material and Submit Assignments](https://youtu.be/_qSnp0ScHpk) 
+[Video | Introduction to Kaggle](https://youtu.be/0nKvu6x9dU4)    
+[Video | Introduction to GitHub and Kaggle](https://youtu.be/XFfogAFQUPY)     
+[Video | Introduction to GitHub Classroom](https://youtu.be/fkEFcZu9ItQ)   
+[Video | Introduction to GitHub Classroom](https://youtu.be/fkEFcZu9ItQ)   
+[Video | How to Access Training Material and Submit Assignments](https://youtu.be/_qSnp0ScHpk)   
 
 # Python Fundamentals 🐍  
 
