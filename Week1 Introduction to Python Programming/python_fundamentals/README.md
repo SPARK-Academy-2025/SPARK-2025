@@ -13,7 +13,7 @@
 
 | Run on Colab | Run on Kaggle |
 |--------------|--------------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fbzUUVKfTNs2Ls2W79k1wi_THZNfH80p?usp=sharing) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/chantelle-patience)
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PhGuaWYsvf33KJaaPSA2nDfy2RFGEqST?usp=sharing) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aondonamoses/week-1-introduction-to-python)
 
 ---
 
