@@ -11,6 +11,7 @@
 [Video | Introduction to GitHub Classroom](https://youtu.be/fkEFcZu9ItQ)   
 [Video | Introduction to GitHub Classroom](https://youtu.be/fkEFcZu9ItQ)   
 [Video | How to Access Training Material and Submit Assignments](https://youtu.be/_qSnp0ScHpk)   
+[Slides | Access Slides to all Week 1 Session](https://github.com/SPARK-Academy-2025/SPARK-2025/tree/main/SPARK%202025%3A%20Week%201%20-%20Intro%20to%20Python/Week%201%20Slide)   
 
 # Python Fundamentals 🐍  
 
