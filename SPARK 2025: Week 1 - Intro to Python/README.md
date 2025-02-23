@@ -16,6 +16,7 @@
 # Python Fundamentals 🐍  
 
 *"Every expert was once a beginner. Great journeys start with a single step."* – Keep going!  
+
 **Introduction to Python** _Click picture below to access_
 [![Introduction to Python](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025%3A%20Week%201%20-%20Intro%20to%20Python/Introduction%20to%20Python.png)](https://youtu.be/T9z8_yx6UEU)
 
