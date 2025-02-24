@@ -26,10 +26,13 @@
 
 ---
 
-## ⚙️ Setup and Installation  
-🔹 Install **Python** 🛠️  
-🔹 **Google Colab** or **Kaggle** setup and overview ☁️  
-🔹 **VS Code** installation and setup 🖥️  
+
+# ⚙️ Setup and Installation
+[Video | How to Install Python and VS Code on Windows](https://youtu.be/mIVB-SNycKI)    
+[Video | How to Install Python on Mac](https://youtu.be/utVZYVJSTZA)     
+[Video | How to Install VS Code on Mac](https://youtu.be/qj5JLEQLelk)   
+[Video | Introduction to Kaggle](https://youtu.be/u9MIwoFWXVg)   
+[Video | Introduction to Colab](https://youtu.be/rsBiVxzmhG0)   
 
 **Access Week 1 Training Materials below**
 | Run on Colab | Run on Kaggle |
