@@ -15,7 +15,7 @@
 ### 📊 Presentation Slides  
 Click the link below to view the slides for this session:  
 
-📌 **[Image Formation in MRI, US, X-ray, CT, and PET - Slide Deck]()**  
+📌 **[Image Formation in MRI, US, X-ray, CT, and PET - Slide Deck](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025%3A%20Week%203%20-%20Object-Oriented%20Programming%20II/Week%203%3A%20Slides/Dr_Maruf.pptx)**  
 
 ---
 
