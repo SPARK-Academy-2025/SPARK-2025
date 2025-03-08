@@ -12,6 +12,14 @@
 
 ---
 
+### 📊 Presentation Slides  
+Click the link below to view the slides for this session:  
+
+📌 **[Image Formation in MRI, US, X-ray, CT, and PET - Slide Deck]()**  
+
+---
+
+
 ## **Access Week 3 Training Materials below**
 ### 📖 Run Notebooks on Colab & Kaggle  
 
