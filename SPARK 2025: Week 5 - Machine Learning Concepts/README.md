@@ -54,7 +54,7 @@ Stay on track and good luck! 🚀
 [Video | Introduction to GitHub Classroom](https://youtu.be/fkEFcZu9ItQ)   
 [Video | Introduction to GitHub Classroom](https://youtu.be/fkEFcZu9ItQ)   
 [Video | How to Access Training Material and Submit Assignments](https://youtu.be/_qSnp0ScHpk)   
-[Slides | Access Slides to all Week 5 Session](https://github.com/SPARK-Academy-2025/SPARK-2025/tree/main/SPARK%202025%3A%20Week%202%20-%20Python%20Basics%20%26%20NumPy/Week%202%3A%20Slides)   
+[Slides | Access Slides to all Week 5 Session](https://github.com/SPARK-Academy-2025/SPARK-2025/tree/main/SPARK%202025%3A%20Week%205%20-%20Machine%20Learning%20Concepts/Week%205%3A%20Slides)   
 [Assignments | How to Access and Submit Assignment](https://classroom.github.com/a/_RCX3LWo)
 
 ---
