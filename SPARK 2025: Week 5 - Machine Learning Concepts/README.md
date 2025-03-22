@@ -2,7 +2,7 @@
 # 🚀 Welcome to SPARK 2025: Week 5 
 # Python Fundamentals 🐍 
 **Machine Learning Concepts** _Click the picture below to access the recorded Video_
-[![Machine Learning Concepts]()](https://youtu.be/gqwjEMfbSJY) 
+[![Machine Learning Concepts](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025:%20Week%205%20-%20Machine%20Learning%20Concepts/week_5.png?raw=true)](https://youtu.be/gqwjEMfbSJY) 
 
 *"Every expert was once a beginner. Great journeys start with a single step."* – Keep going!  
 
