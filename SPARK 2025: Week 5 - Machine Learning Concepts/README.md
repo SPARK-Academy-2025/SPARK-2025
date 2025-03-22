@@ -6,9 +6,13 @@
 
 *"Every expert was once a beginner. Great journeys start with a single step."* – Keep going!  
 
-**Mini Capstone Project**
-[![Mini Capstone Project](https://www.kaggle.com/t/d73b869f72674ccdb0bca1e194ed9c4f)
+# Machine Learning Project  
 
+## 🔗 Project Links  
+
+- 📂 **GitHub Classroom:** [Click here to access the repository](https://classroom.github.com/a/vuqBW1s3)  
+- 🏆 **Kaggle Competition:** [Join the competition here](https://www.kaggle.com/t/d73b869f72674ccdb0bca1e194ed9c4f)
+- 
 ---
 
 ## **Access Week 5 Training Materials below**
