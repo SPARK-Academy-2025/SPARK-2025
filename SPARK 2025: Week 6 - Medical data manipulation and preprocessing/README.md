@@ -20,7 +20,7 @@ _Click the picture below to access the recorded video_
 
 | Notebook Title | Run on Kaggle | Run on Colab |
 |---------------|--------------|-------------|
-| **Medical Data Manipulation and Preprocessing** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/medical-data-manipulation-and-preprocessing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1icgGXSMzq0_ORvGg4DCEFfmP-n6PC9jy?usp=sharing) |
+| **Medical Data Manipulation and Preprocessing** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/medical-data-manipulation-and-preprocessing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qUxAzoLBOLhoS7iGkbhoqsiZijWl2VUz?usp=sharing) |
 
 
 🚀 Click the links to open the notebooks in **Google Colab** or **Kaggle** for interactive coding!
