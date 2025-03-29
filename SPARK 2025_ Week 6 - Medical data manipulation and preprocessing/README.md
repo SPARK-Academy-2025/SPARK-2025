@@ -8,7 +8,7 @@ _Click the picture below to access the recorded video_
 
 **Medical Data Manipulation and Preprocessing**  
 _Click the picture below to access the recorded video_  
-[![Medical Data Manipulation and Preprocessing](banner)](link)  
+[![Medical Data Manipulation and Preprocessing](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%206%20-%20Medical%20data%20manipulation%20and%20preprocessing/bernes.png?raw=true)](link)  
 
 
 🔗 **Week 6 Presentation Slides:**  
