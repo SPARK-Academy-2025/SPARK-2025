@@ -11,6 +11,10 @@ _Click the picture below to access the recorded video_
 [![Medical Data Manipulation and Preprocessing](banner)](link)  
 
 
+🔗 **Week 6 Presentation Slides:**  
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%206%20-%20Medical%20data%20manipulation%20and%20preprocessing/Week%206_%20Slides/Medical%20Image%20Processing.pptx)   
+
+
 *"Every expert was once a beginner. Great journeys start with a single step."* – Keep going!  
 
 ---
