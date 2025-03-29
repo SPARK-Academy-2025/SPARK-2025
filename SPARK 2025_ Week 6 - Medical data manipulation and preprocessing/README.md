@@ -44,7 +44,7 @@ Follow the submission guidelines carefully and ensure your final notebook is pus
 |---------------|---------------|
 | **BraTS2021 Dataset** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1) |
 | **Assignment Notebook** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/week-6-assignment-template) |
-| **Introduction to Medical Image Processing** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/week-6-medical-data-manipulation) |
+| **Introduction to Medical Image Processing** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/medical-data-manipulation-and-preprocessing) |
 
 ---
 🔥 The challenges are getting tougher, but so are you! Your hard work and dedication are truly paying off—keep pushing forward. The light at the end of the tunnel isn’t just shining; it’s blazing for you! Keep going, keep coding, and keep striving for greatness! 🚀 See you all in the next session. Happy coding! 🎉💻
