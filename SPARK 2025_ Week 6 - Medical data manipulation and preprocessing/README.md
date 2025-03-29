@@ -3,12 +3,12 @@
 # Python Fundamentals 🐍 
 **Computing Basics**  
 _Click the picture below to access the recorded video_  
-[![Medical Data Manipulation](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%206%20-%20Medical%20data%20manipulation%20and%20preprocessing/prof.png?raw=true)](link)
+[![Medical Data Manipulation](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%206%20-%20Medical%20data%20manipulation%20and%20preprocessing/prof.png?raw=true)](https://youtu.be/hRe69Q7qnHA)
 
 
 **Medical Data Manipulation and Preprocessing**  
 _Click the picture below to access the recorded video_  
-[![Medical Data Manipulation and Preprocessing](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%206%20-%20Medical%20data%20manipulation%20and%20preprocessing/bernes.png?raw=true)](link)  
+[![Medical Data Manipulation and Preprocessing](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%206%20-%20Medical%20data%20manipulation%20and%20preprocessing/bernes.png?raw=true)](https://youtu.be/jDucTySo3OI)  
 
 
 🔗 **Week 6 Presentation Slides:**  
