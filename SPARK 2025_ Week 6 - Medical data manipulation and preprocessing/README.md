@@ -52,6 +52,18 @@ Follow the submission guidelines carefully and ensure your final notebook is pus
 🔥 The challenges are getting tougher, but so are you! Your hard work and dedication are truly paying off—keep pushing forward. The light at the end of the tunnel isn’t just shining; it’s blazing for you! Keep going, keep coding, and keep striving for greatness! 🚀 See you all in the next session. Happy coding! 🎉💻
 ---
 
+---
+
+# GitHub and Kaggle Set up
+[Video | Introduction to Kaggle](https://youtu.be/0nKvu6x9dU4)    
+[Video | Introduction to GitHub and Kaggle](https://youtu.be/XFfogAFQUPY)     
+[Video | Introduction to GitHub Classroom](https://youtu.be/fkEFcZu9ItQ)   
+[Video | Introduction to GitHub Classroom](https://youtu.be/fkEFcZu9ItQ)   
+[Video | How to Access Training Material and Submit Assignments](https://youtu.be/_qSnp0ScHpk)   
+[Slides | Access Slides to all Week 5 Session](https://github.com/SPARK-Academy-2025/SPARK-2025/tree/main/SPARK%202025%3A%20Week%205%20-%20Machine%20Learning%20Concepts/Week%205%3A%20Slides)   
+[Assignments | How to Access and Submit Assignment](https://classroom.github.com/a/_RCX3LWo)
+
+---
 
 
 
