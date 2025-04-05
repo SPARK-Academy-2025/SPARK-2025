@@ -18,7 +18,7 @@ _Click the picture below to access the recorded video_
 ---
 
 ### 🔗 **1. Convolutional Neural Networks**
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_LINK_HERE)
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/Week%207_%20Slides/Convolutional%20Neural%20networks.pptx)
 
 ---
 
