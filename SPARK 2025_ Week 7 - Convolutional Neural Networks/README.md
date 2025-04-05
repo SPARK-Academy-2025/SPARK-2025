@@ -3,15 +3,15 @@
 # Convolutional Neural Networks(CNN) 🐍 
 **Assignment Mark Prediction**  
 _Click the picture below to access the recorded video_  
-[![Assignment Mark Prediction](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207/assignment_mark_prediction.png?raw=true)](https://youtu.be/hRe69Q7qnHA)
+[![Assignment Mark Prediction](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/week7_1.png?raw=true)](https://youtu.be/hRe69Q7qnHA)
 
 **MNIST Classification**  
 _Click the picture below to access the recorded video_  
-[![MNIST Classification](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207/mnist_classification.png?raw=true)](https://youtu.be/jDucTySo3OI)
+[![MNIST Classification](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/week7_2.png?raw=true)](https://youtu.be/jDucTySo3OI)
 
 **Tumor Detection**  
 _Click the picture below to access the recorded video_  
-[![Tumor Detection](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207/tumor_detection.png?raw=true)](https://youtu.be/YourTumorVideoLinkHere)
+[![Tumor Detection](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/week7_3.png?raw=true)](https://youtu.be/YourTumorVideoLinkHere)
 
 🔗 **Week 7 Presentation Slides:**  
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207/Week%207_Slides/Week7_Presentation.pptx)
