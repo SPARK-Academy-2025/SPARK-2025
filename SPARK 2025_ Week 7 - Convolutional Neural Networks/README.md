@@ -53,13 +53,6 @@ _Click the picture below to access the recorded video_
 Follow the submission guidelines carefully and ensure your final notebook is pushed to your Team's GitHub repository. ✅  
 
 ---
-## **Resources**
-
----
-🔥 The challenges are getting tougher, but so are you! Your hard work and dedication are truly paying off—keep pushing forward. The light at the end of the tunnel isn’t just shining; it’s blazing for you! Keep going, keep coding, and keep striving for greatness! 🚀 See you all in the next session. Happy coding! 🎉💻
----
-
----
 
 # GitHub and Kaggle Set up
 [Video | Introduction to Kaggle](https://youtu.be/0nKvu6x9dU4)    
