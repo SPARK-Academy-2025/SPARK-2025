@@ -13,8 +13,24 @@ _Click the picture below to access the recorded video_
 _Click the picture below to access the recorded video_  
 [![Tumor Detection](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/week7_3.png?raw=true)](https://youtu.be/YourTumorVideoLinkHere)
 
-🔗 **Week 7 Presentation Slides:**  
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207/Week%207_Slides/Week7_Presentation.pptx)
+## 📊 Week 7 Presentation Slides
+
+---
+
+### 🔗 **1. Convolutional Neural Networks**
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_LINK_HERE)
+
+---
+
+### 🔗 **2. Custom Data Preparation**
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_LINK_HERE)
+
+---
+
+### 🔗 **3. Deep Learning Fundamentals**
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_LINK_HERE)
+
+---
 
 
 *"Every expert was once a beginner. Great journeys start with a single step."* – Keep going!  
@@ -38,13 +54,13 @@ _Click the picture below to access the recorded video_
 ### 📚 Week 7 Assignments
 
 #### 🫀 Assignment 1: ANN – Heart Failure Prediction
-- 🔗 **GitHub Classroom Link:** [Click to Submit](https://classroom.github.com/a/ACxPfdjq)  
+- 🔗 **GitHub Classroom Link:** [Click to Accept](https://classroom.github.com/a/ACxPfdjq)  
 - 🏆 **Kaggle Competition:** [Heart Failure Prediction](https://www.kaggle.com/t/0ee4465f22b94b9eb6fb5e54e5a2b377)
 
 ---
 
 #### 🧠 Assignment 2: Brain Tumor Classification Challenge
-- 🔗 **GitHub Classroom Link:** [Click to Submit](https://classroom.github.com/a/lTM6wrqs)  
+- 🔗 **GitHub Classroom Link:** [Click to Accept](https://classroom.github.com/a/lTM6wrqs)  
 - 🏆 **Kaggle Competition:** [Brain Tumor Classification](https://www.kaggle.com/t/0539734cfeec45fc846bef9fc6466743)
 
 ---
