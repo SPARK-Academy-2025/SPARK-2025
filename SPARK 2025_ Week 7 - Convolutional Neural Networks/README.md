@@ -20,11 +20,13 @@ _Click the picture below to access the recorded video_
 ---
 
 ## **Access Week 7 Training Materials below**
-### 📖 Run Notebooks on Colab & Kaggle  
+### 📖 Run Notebooks on Kaggle  
 
-| Notebook Title | Run on Kaggle | Run on Colab |
-|---------------|--------------|-------------|
-| **Medical Data Manipulation and Preprocessing** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/medical-data-manipulation-and-preprocessing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qUxAzoLBOLhoS7iGkbhoqsiZijWl2VUz?usp=sharing) |
+| Notebook Title | Run on Kaggle |
+|----------------|---------------|
+| **Assignment Mark Prediction** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/assignment-mark-prediction/edit) |
+| **MNIST Classification** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/mnist-classification/edit) |
+| **Tumor Detection** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/tumor-detection/edit) |
 
 
 🚀 Click the links to open the notebooks in **Google Colab** or **Kaggle** for interactive coding!
