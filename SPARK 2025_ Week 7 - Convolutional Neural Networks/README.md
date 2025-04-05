@@ -11,7 +11,7 @@ _Click the picture below to access the recorded video_
 
 **Tumor Detection**  
 _Click the picture below to access the recorded video_  
-[![Tumor Detection](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207/tumor_detection.png?raw=true)](https://youtu.be/YourTumorVideoLinkHere)
+[![Tumor Detection](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/week7_3.png?raw=true)](https://youtu.be/YourTumorVideoLinkHere)
 
 🔗 **Week 7 Presentation Slides:**  
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207/Week%207_Slides/Week7_Presentation.pptx)
