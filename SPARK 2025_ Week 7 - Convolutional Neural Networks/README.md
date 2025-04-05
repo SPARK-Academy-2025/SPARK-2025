@@ -1,18 +1,20 @@
 
 # 🚀 Welcome to SPARK 2025: Week 7 
 # Convolutional Neural Networks(CNN) 🐍 
-**Computing Basics**  
+**Assignment Mark Prediction**  
 _Click the picture below to access the recorded video_  
-[![Medical Data Manipulation](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%206%20-%20Medical%20data%20manipulation%20and%20preprocessing/prof.png?raw=true)](https://youtu.be/hRe69Q7qnHA)
+[![Assignment Mark Prediction](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207/assignment_mark_prediction.png?raw=true)](https://youtu.be/hRe69Q7qnHA)
 
-
-**Medical Data Manipulation and Preprocessing**  
+**MNIST Classification**  
 _Click the picture below to access the recorded video_  
-[![Medical Data Manipulation and Preprocessing](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%206%20-%20Medical%20data%20manipulation%20and%20preprocessing/bernes.png?raw=true)](https://youtu.be/jDucTySo3OI)  
+[![MNIST Classification](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207/mnist_classification.png?raw=true)](https://youtu.be/jDucTySo3OI)
 
+**Tumor Detection**  
+_Click the picture below to access the recorded video_  
+[![Tumor Detection](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207/tumor_detection.png?raw=true)](https://youtu.be/YourTumorVideoLinkHere)
 
 🔗 **Week 7 Presentation Slides:**  
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%206%20-%20Medical%20data%20manipulation%20and%20preprocessing/Week%206_%20Slides/Medical%20Image%20Processing.pptx)   
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207/Week%207_Slides/Week7_Presentation.pptx)
 
 
 *"Every expert was once a beginner. Great journeys start with a single step."* – Keep going!  
