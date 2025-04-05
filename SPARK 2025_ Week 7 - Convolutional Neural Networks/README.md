@@ -3,7 +3,7 @@
 # Convolutional Neural Networks(CNN) 🐍 
 **Assignment Mark Prediction**  
 _Click the picture below to access the recorded video_  
-[![Assignment Mark Prediction](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207/assignment_mark_prediction.png?raw=true)](https://youtu.be/hRe69Q7qnHA)
+[![Assignment Mark Prediction](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/week7_1.png?raw=true)](https://youtu.be/hRe69Q7qnHA)
 
 **MNIST Classification**  
 _Click the picture below to access the recorded video_  
