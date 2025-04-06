@@ -43,8 +43,8 @@ _Click the picture below to access the recorded video_
 | Notebook Title | Run on Kaggle |
 |----------------|---------------|
 | **Assignment Mark Prediction** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/assignment-mark-prediction) |
-| **MNIST Classification** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/mnist-classification/edit) |
-| **Tumor Detection** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/tumor-detection/edit) |
+| **MNIST Classification** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/mnist-classification) |
+| **Tumor Detection** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/tumor-detection) |
 
 
 🚀 Click the links to open the notebooks in **Google Colab** or **Kaggle** for interactive coding!
