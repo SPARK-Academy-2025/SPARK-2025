@@ -1,18 +1,22 @@
 
 # 🚀 Welcome to SPARK 2025: Week 7 
 # Convolutional Neural Networks(CNN) 🐍 
-**Assignment Mark Prediction**  
-_Click the picture below to access the recorded video_  
-[![Assignment Mark Prediction](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/week7_1.png?raw=true)](https://youtu.be/hRe69Q7qnHA)
 
-**MNIST Classification**  
+**Convolutional Neural Networks**  
 _Click the picture below to access the recorded video_  
-[![MNIST Classification](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/week7_2.png?raw=true)](https://youtu.be/jDucTySo3OI)
+[![Tumor Detection](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/week7_3.png?raw=true)](https://youtu.be/Zzl6XcngGEc)
 
-**Tumor Detection**  
+**Deep Learning Fundamentals 1**  
 _Click the picture below to access the recorded video_  
-[![Tumor Detection](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/week7_3.png?raw=true)](https://youtu.be/YourTumorVideoLinkHere)
+[![Assignment Mark Prediction](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/week7_1.png?raw=true)](https://youtu.be/C046R3Kpo8s)
 
+**Deep Learning Fundamentals 2**  
+_Click the picture below to access the recorded video_  
+[![MNIST Classification](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/week7_2.png?raw=true)](https://youtu.be/E84oXbtDr0s)
+
+**Custom Data Preparation**  
+_Click the picture below to access the recorded video_  
+[![Tumor Detection](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/week7_3.png?raw=true)](https://youtu.be/CctqLxuHDDc)
 ## 📊 Week 7 Presentation Slides
 
 ---
