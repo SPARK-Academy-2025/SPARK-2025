@@ -8,7 +8,7 @@ _Click the picture below to access the recorded video_
 
 **Deep Learning Fundamentals 1**  
 _Click the picture below to access the recorded video_  
-[![Assignment Mark Prediction](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/week7_1.png?raw=true)](https://youtu.be/C046R3Kpo8s)
+[![Assignment Mark Prediction](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/week7_1_I.png?raw=true)](https://youtu.be/C046R3Kpo8s)
 
 **Deep Learning Fundamentals 2**  
 _Click the picture below to access the recorded video_  
