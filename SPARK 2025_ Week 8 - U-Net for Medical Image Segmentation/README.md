@@ -2,13 +2,13 @@
 # 🚀 Welcome to SPARK 2025: Week 8 
 # U-Net for Medical Image Segmentation 
 
-**Medical Image Segmentation**  
+**U-Net for Medical Image Segmentation 1**  
 _Click the picture below to access the recorded video_  
 [![Tumor Detection](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%208%20-%20U-Net%20for%20Medical%20Image%20Segmentation/ProfCraig.png?raw=true)]()
 
-**U-Net for Medical Image Segmentation1**  
+**U-Net for Medical Image Segmentation 2**  
 _Click the picture below to access the recorded video_  
-[![Assignment Mark Prediction]()]()
+[![Assignment Mark Prediction](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%208%20-%20U-Net%20for%20Medical%20Image%20Segmentation/Dr_Ismaila.png?raw=true)]()
 
 
 ## 📊 Week 8 Presentation Slides
