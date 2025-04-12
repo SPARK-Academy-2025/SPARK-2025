@@ -4,11 +4,11 @@
 
 **U-Net for Medical Image Segmentation 1**  
 _Click the picture below to access the recorded video_  
-[![Tumor Detection](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%208%20-%20U-Net%20for%20Medical%20Image%20Segmentation/ProfCraig.png?raw=true)]()
+[![Tumor Detection](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%208%20-%20U-Net%20for%20Medical%20Image%20Segmentation/ProfCraig.png?raw=true)](https://youtu.be/krwOoH1MUwU)
 
-**U-Net for Medical Image Segmentation 2**  
+**Hands on U-Net for Medical Image Segmentation**  
 _Click the picture below to access the recorded video_  
-[![Assignment Mark Prediction](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%208%20-%20U-Net%20for%20Medical%20Image%20Segmentation/Dr_Ismaila.png?raw=true)]()
+[![Assignment Mark Prediction](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%208%20-%20U-Net%20for%20Medical%20Image%20Segmentation/Dr_Ismaila.png?raw=true)](https://youtu.be/Uh6d3ayFBaE)
 
 
 ## 📊 Week 8 Presentation Slides
@@ -33,27 +33,14 @@ _Click the picture below to access the recorded video_
 ## **Access Week 8 Training Materials below**
 ### 📖 Run Notebooks on Kaggle  
 
-<!-- | Notebook Title | Run on Kaggle |
+| Notebook Title | Run on Kaggle |
 |----------------|---------------|
-| **Assignment Mark Prediction** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/assignment-mark-prediction) |
-| **MNIST Classification** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/mnist-classification) |
-| **Tumor Detection** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/tumor-detection) | -->
+| **Hands on U-Net** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/week-8-u-net-for-segmentation) |
+
 
 
 🚀 Click the links to open the notebooks in **Google Colab** or **Kaggle** for interactive coding!
 
----
-
-### 📚 Week 8 Assignments
-
-<!-- #### 🫀 Assignment 1: ANN – Heart Failure Prediction
-- 🔗 **GitHub Classroom Link:** [Click to Accept](https://classroom.github.com/a/ACxPfdjq)  
-- 🏆 **Kaggle Competition:** [Heart Failure Prediction](https://www.kaggle.com/t/0ee4465f22b94b9eb6fb5e54e5a2b377) -->
-
----
- 
-
-Follow the submission guidelines carefully and ensure your final notebook is pushed to your Team's GitHub repository. ✅  
 
 ---
 
