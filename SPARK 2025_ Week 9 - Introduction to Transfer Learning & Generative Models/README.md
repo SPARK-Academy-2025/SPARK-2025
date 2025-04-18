@@ -2,16 +2,24 @@
 # 🚀 Welcome to SPARK 2025: Week 9 
 # Introduction to Transfer Learning & Generative Models
 
+**Basic Neuroanatomy and Imaging Planes**  
+_Click the picture below to access the recorded video_  
+[![Neuroanatomy and Imaging Planes](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/Bankole_thumbnail.png?raw=true)]()
+
 **Introduction to Transfer Learning**  
 _Click the picture below to access the recorded video_  
-[![Tumor Detection]()]()
+[![Transfer Learning]()]()
 
 **Generative Models**  
 _Click the picture below to access the recorded video_  
-[![Assignment Mark Prediction]()]()
+[![Generative Models](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/fiq_thumnail.png?raw=true)]()
 
 
-## 📊 Week 7 Presentation Slides
+## 📊 Week 9 Presentation Slides
+
+---
+### 🔗 **Basic Neuroanatomy and Imaging Planes**
+<!-- [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/Week%207_%20Slides/Convolutional%20Neural%20networks.pptx) -->
 
 ---
 
