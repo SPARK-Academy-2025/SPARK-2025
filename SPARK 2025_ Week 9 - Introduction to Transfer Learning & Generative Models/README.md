@@ -52,6 +52,12 @@ _Click the picture below to access the recorded video_
 🚀 Click the links to open the notebooks in **Google Colab** or **Kaggle** for interactive coding!
 
 ---
+### Additional Resources
+
+- **SwinUNetR: Shifting Window Transformer for Semantic Segmentation of Brain Tumors**  
+  [https://youtu.be/scWzb1-yQb0](https://youtu.be/scWzb1-yQb0)
+
+---
 
 ### 📚 Week 9 Assignments
 #### 🤖 Assignment: Generative Adversarial Networks  
