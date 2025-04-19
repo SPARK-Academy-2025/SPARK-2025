@@ -54,18 +54,10 @@ _Click the picture below to access the recorded video_
 ---
 
 ### 📚 Week 9 Assignments
-<!-- 
-#### 🫀 Assignment 1: ANN – Heart Failure Prediction
-- 🔗 **GitHub Classroom Link:** [Click to Accept](https://classroom.github.com/a/ACxPfdjq)  
-- 🏆 **Kaggle Competition:** [Heart Failure Prediction](https://www.kaggle.com/t/0ee4465f22b94b9eb6fb5e54e5a2b377)
+#### 🤖 Assignment: Generative Adversarial Networks  
+- 🔗 **GitHub Classroom Link:** [Click to Accept](https://classroom.github.com/a/5Hlx6Kc7)  
 
----
 
-#### 🧠 Assignment 2: Brain Tumor Classification Challenge
-- 🔗 **GitHub Classroom Link:** [Click to Accept](https://classroom.github.com/a/lTM6wrqs)  
-- 🏆 **Kaggle Competition:** [Brain Tumor Classification](https://www.kaggle.com/t/0539734cfeec45fc846bef9fc6466743) -->
-
----
  
 
 Follow the submission guidelines carefully and ensure your final notebook is pushed to your Team's GitHub repository. ✅  
