@@ -41,11 +41,12 @@ _Click the picture below to access the recorded video_
 ## **Access Week 9 Training Materials below**
 ### 📖 Run Notebooks on Kaggle  
 
-<!-- | Notebook Title | Run on Kaggle |
-|----------------|---------------|
-| **Assignment Mark Prediction** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/assignment-mark-prediction) |
-| **MNIST Classification** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/mnist-classification) |
-| **Tumor Detection** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/tumor-detection) | -->
+| Notebook Title                                    | Run on Kaggle                                                                                                                       |
+|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| **Transfer Learning Techniques**           | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/week-9-transfer-learning-techniques)           |
+| **Generative Adversarial Networks (GANs)** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/week-9-generative-adversarial-networks-gans) |
+| **Introduction to SwinUNETR**                     | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/introduction-to-swinunetr)                       |
+
 
 
 🚀 Click the links to open the notebooks in **Google Colab** or **Kaggle** for interactive coding!
