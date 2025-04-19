@@ -19,12 +19,12 @@ _Click the picture below to access the recorded video_
 
 ---
 ### 🔗 **Basic Neuroanatomy and Imaging Planes**
-[![View on GitHub](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20%26%20Generative%20Models/Week%209_%20Slides/SPARK%20Academy%20Lecture%202025.pdf)
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20%26%20Generative%20Models/Week%209_%20Slides/SPARK%20Academy%20Lecture%202025.pdf)
 
 ---
 
 ### 🔗 **Introduction to Transfer Learning**
-[![View on GitHub](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20%26%20Generative%20Models/Week%209_%20Slides/Transfer%20Learning%20Techniques.pptx)
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20%26%20Generative%20Models/Week%209_%20Slides/Transfer%20Learning%20Techniques.pptx)
 
 ---
 
