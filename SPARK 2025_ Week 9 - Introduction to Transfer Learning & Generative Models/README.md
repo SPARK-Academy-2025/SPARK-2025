@@ -12,11 +12,11 @@ _Click the picture below to access the recorded video_
 
 **Generative Adversarial Networks (GANs)**  
 _Click the picture below to access the recorded video_  
-[![Generative Models](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/Toufiq_thumbnail_GAN%20.png?raw=true)]( https://youtu.be/QNdNNjihe3A)
+[![Generative Models](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/Toufiq_thumbnail_GAN.png?raw=true)]( https://youtu.be/QNdNNjihe3A)
 
 **Introduction to SwinUNETR**  
 _Click the picture below to access the recorded video_  
-[![Introduction to SwinUNETR](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/Toufiq_thumbnail_Swinuntr%20.png?raw=true)](https://youtu.be/p8U3dEgkhLA)
+[![Introduction to SwinUNETR](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/Toufiq_thumbnail_Swinuntr.png?raw=true)](https://youtu.be/p8U3dEgkhLA)
 
 
 
@@ -34,11 +34,11 @@ _Click the picture below to access the recorded video_
 ---
 
 ### 🔗 **Generative Adversarial Networks (GANs)**
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/Week%207_%20Slides/Custom%20Data%20Preparation.pptx)
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20%26%20Generative%20Models/Week%209_%20Slides/GAN.pptx)
 
 ---
 ### 🔗 **Introduction to SwinUNETR**
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/Week%207_%20Slides/Custom%20Data%20Preparation.pptx)
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20%26%20Generative%20Models/Week%209_%20Slides/SwinUNETR.pptx)
 
 ---
 
