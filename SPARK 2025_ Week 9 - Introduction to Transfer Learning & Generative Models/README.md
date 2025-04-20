@@ -4,19 +4,19 @@
 
 **Basic Neuroanatomy and Imaging Planes**  
 _Click the picture below to access the recorded video_  
-[![Neuroanatomy and Imaging Planes](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/Bankole_thumbnail.png?raw=true)]()
+[![Neuroanatomy and Imaging Planes](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/Bankole_thumbnail.png?raw=true)](https://youtu.be/rYGSe4DM4eM)
 
 **Introduction to Transfer Learning**  
 _Click the picture below to access the recorded video_  
-[![Transfer Learning](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/Moses_thumbnail.png?raw=true)]()
+[![Transfer Learning](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/Moses_thumbnail.png?raw=true)]( https://youtu.be/a5HEpFuXbgs)
 
 **Generative Adversarial Networks (GANs)**  
 _Click the picture below to access the recorded video_  
-[![Generative Models](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/Toufiq_thumbnail.png?raw=true)]()
+[![Generative Models](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/Toufiq_thumbnail_GAN%20(1).png?raw=true)]( https://youtu.be/QNdNNjihe3A)
 
 **Introduction to SwinUNETR**  
 _Click the picture below to access the recorded video_  
-[![Introduction to SwinUNETR](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/Toufiq_thumbnail.png?raw=true)]()
+[![Introduction to SwinUNETR](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/Toufiq_thumbnail_Swinuntr%20(1).png?raw=true)](https://youtu.be/p8U3dEgkhLA)
 
 
 
