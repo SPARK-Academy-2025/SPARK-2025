@@ -38,14 +38,12 @@ _Click the picture below to access the recorded video_
 ---
 ### Additional Resources
 
-- **SwinUNetR: Shifting Window Transformer for Semantic Segmentation of Brain Tumors**  
-  [https://youtu.be/scWzb1-yQb0](https://youtu.be/scWzb1-yQb0)
 
 ---
 
-### 📚 Week 9 Assignments
-#### 🤖 Assignment: Generative Adversarial Networks  
-- 🔗 **GitHub Classroom Link:** [Click to Accept](https://classroom.github.com/a/5Hlx6Kc7)  
+### 📚 Week 10 Assignments
+#### 🤖 Assignment: Diffusion Model
+<!-- - 🔗 **GitHub Classroom Link:** [Click to Accept](https://classroom.github.com/a/5Hlx6Kc7)   -->
 
 
  
