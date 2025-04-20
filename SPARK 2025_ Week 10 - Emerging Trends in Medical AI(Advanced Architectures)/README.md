@@ -1,30 +1,29 @@
 
 # 🚀 Welcome to SPARK 2025: Week 10 
-# Emerging Trends in Medical AI (Advanced Architectures)
+# Advanced Deep Learning Techniques II & Emerging Trends in Medical AI
 
 **Emerging Trends in Medical AI**  
 _Click the picture below to access the recorded video_  
-[![Tumor Detection]()]()
+[![Emerging Trends in Medical AI]()]()
 
-<!-- **U-Net for Medical Image Segmentation1**  
+**Diffusion models for medical image segmentation**  
 _Click the picture below to access the recorded video_  
-[![Assignment Mark Prediction]()]() -->
+[![Introduction Diffusion Models]()]()
 
 
 ## 📊 Week 10 Presentation Slides
 
 ---
-
-<!-- ### 🔗 **1. U-Net for Medical Image Segmentation**
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/Week%207_%20Slides/Convolutional%20Neural%20networks.pptx) -->
-
----
-
-<!-- ### 🔗 **2. Medical Image Segmentation*
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/Week%207_%20Slides/Custom%20Data%20Preparation.pptx) -->
+### 🔗 **Emerging Trends in Medical AI**
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
 ---
 
+### 🔗 **Diffusion models for medical image segmentation**
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+
+
+---
 
 *"Every expert was once a beginner. Great journeys start with a single step."* – Keep going!  
 
@@ -33,24 +32,22 @@ _Click the picture below to access the recorded video_
 ## **Access Week 10 Training Materials below**
 ### 📖 Run Notebooks on Kaggle  
 
-<!-- | Notebook Title | Run on Kaggle |
-|----------------|---------------|
-| **Assignment Mark Prediction** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/assignment-mark-prediction) |
-| **MNIST Classification** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/mnist-classification) |
-| **Tumor Detection** | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/tumor-detection) | -->
-
 
 🚀 Click the links to open the notebooks in **Google Colab** or **Kaggle** for interactive coding!
 
 ---
+### Additional Resources
 
-### 📚 Week 10 Assignments
-
-<!-- #### 🫀 Assignment 1: ANN – Heart Failure Prediction
-- 🔗 **GitHub Classroom Link:** [Click to Accept](https://classroom.github.com/a/ACxPfdjq)  
-- 🏆 **Kaggle Competition:** [Heart Failure Prediction](https://www.kaggle.com/t/0ee4465f22b94b9eb6fb5e54e5a2b377) -->
+- **SwinUNetR: Shifting Window Transformer for Semantic Segmentation of Brain Tumors**  
+  [https://youtu.be/scWzb1-yQb0](https://youtu.be/scWzb1-yQb0)
 
 ---
+
+### 📚 Week 9 Assignments
+#### 🤖 Assignment: Generative Adversarial Networks  
+- 🔗 **GitHub Classroom Link:** [Click to Accept](https://classroom.github.com/a/5Hlx6Kc7)  
+
+
  
 
 Follow the submission guidelines carefully and ensure your final notebook is pushed to your Team's GitHub repository. ✅  
