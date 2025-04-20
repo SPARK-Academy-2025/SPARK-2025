@@ -14,6 +14,11 @@ _Click the picture below to access the recorded video_
 _Click the picture below to access the recorded video_  
 [![Generative Models](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/Toufiq_thumbnail.png?raw=true)]()
 
+**Introduction to SwinUNETR**  
+_Click the picture below to access the recorded video_  
+[![Introduction to SwinUNETR](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%209%20-%20Introduction%20to%20Transfer%20Learning%20&%20Generative%20Models/Toufiq_thumbnail.png?raw=true)]()
+
+
 
 ## 📊 Week 9 Presentation Slides
 
@@ -29,10 +34,13 @@ _Click the picture below to access the recorded video_
 ---
 
 ### 🔗 **Generative Models**
-<!-- [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/Week%207_%20Slides/Custom%20Data%20Preparation.pptx) -->
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/Week%207_%20Slides/Custom%20Data%20Preparation.pptx)
 
 ---
+### 🔗 **Introduction to SwinUNETR**
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%207%20-%20Convolutional%20Neural%20Networks/Week%207_%20Slides/Custom%20Data%20Preparation.pptx)
 
+---
 
 *"Every expert was once a beginner. Great journeys start with a single step."* – Keep going!  
 
