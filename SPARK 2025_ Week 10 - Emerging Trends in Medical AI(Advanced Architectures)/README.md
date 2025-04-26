@@ -2,11 +2,24 @@
 # 🚀 Welcome to SPARK 2025: Week 10 
 # Advanced Deep Learning Techniques II & Emerging Trends in Medical AI
 
-**Emerging Trends in Medical AI**  
+**Preoperative Planning and Diagnosis and Staging**  
 _Click the picture below to access the recorded video_  
 [![Emerging Trends in Medical AI]()]()
+Knowledge Distillation and Meta Learning
 
-**Diffusion models for medical image segmentation**  
+**Knowledge Distillation and Meta Learning**  
+_Click the picture below to access the recorded video_  
+[![Introduction Diffusion Models]()]()
+
+**Medical Image Segmentation Using MedNeXt**  
+_Click the picture below to access the recorded video_  
+[![Introduction Diffusion Models]()]()
+
+**Medical Image Segmentation Using nnUnet**  
+_Click the picture below to access the recorded video_  
+[![Introduction Diffusion Models]()]()
+
+**Medical Image Segmentation Using Diffusion Model**  
 _Click the picture below to access the recorded video_  
 [![Introduction Diffusion Models]()]()
 
