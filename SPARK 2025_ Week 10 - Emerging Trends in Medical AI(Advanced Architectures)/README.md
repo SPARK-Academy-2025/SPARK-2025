@@ -66,13 +66,12 @@ _Click the picture below to access the recorded video_
 ---
 
 ### 📚 Week 10 Assignments
-#### 🤖 Assignment: Diffusion Model
-<!-- - 🔗 **GitHub Classroom Link:** [Click to Accept](https://classroom.github.com/a/5Hlx6Kc7)   -->
+- 🔗 **Google Form Assignment:** [Click to Fill Out the Form]() — please review all six videos before submitting the form.
+---
 
-
- 
-
-Follow the submission guidelines carefully and ensure your final notebook is pushed to your Team's GitHub repository. ✅  
+*Week 10 Assignment Live Walkthrough**  
+_Click the picture below to access the recorded video_  
+[![Week 10 Assignment Live Walkthrough](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Ayomide.jpg?raw=true)]()
 
 ---
 
