@@ -28,13 +28,25 @@ _Click the picture below to access the recorded video_
 
 
 ## 📊 Week 10 Presentation Slides
-
 ---
-### 🔗 **Emerging Trends in Medical AI**
+### 🔗 **Preoperative Planning and Diagnosis and Staging**
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
-### 🔗 **Diffusion models for medical image segmentation**
+### 🔗 **MRI Sequences & Protocols for Glioma**
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+
+### 🔗 **Knowledge Distillation and Meta Learning**
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+
+### 🔗 **Medical Image Segmentation Using MedNeXt**
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+
+### 🔗 **Medical Image Segmentation Using nnUnet**
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+
+### 🔗 **Medical Image Segmentation Using Diffusion Model**
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+
 ---
 
 *"Every expert was once a beginner. Great journeys start with a single step."* – Keep going!  
