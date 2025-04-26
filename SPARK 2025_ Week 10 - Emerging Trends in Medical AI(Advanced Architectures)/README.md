@@ -55,6 +55,10 @@ _Click the picture below to access the recorded video_
 
 ## **Access Week 10 Training Materials below**
 ### 📖 Run Notebooks on Kaggle  
+| Notebook Title                                                    | Run on Kaggle                                                                                                                                         |
+|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Week 10: Medical image Segmentation Using MedNeXt**             | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |
+| **Week 10: Medical image Segmentation Using Diffusion Models**    | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |
 
 
 🚀 Click the links to open the notebooks in **Google Colab** or **Kaggle** for interactive coding!
