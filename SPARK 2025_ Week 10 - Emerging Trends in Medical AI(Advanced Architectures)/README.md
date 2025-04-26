@@ -4,24 +4,29 @@
 
 **Preoperative Planning and Diagnosis and Staging**  
 _Click the picture below to access the recorded video_  
-[![Emerging Trends in Medical AI]()]()
+[![Preoperative Planning & Diagnosis & Staging](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Dr.%20Nourou%20Dine.jpg?raw=true)]()
+Knowledge Distillation and Meta Learning
+
+**MRI Sequences & Protocols for Glioma**  
+_Click the picture below to access the recorded video_  
+[![MRI Sequences & Protocols for Glioma](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Dr.%20Amal.jpg?raw=true)]()
 Knowledge Distillation and Meta Learning
 
 **Knowledge Distillation and Meta Learning**  
 _Click the picture below to access the recorded video_  
-[![Introduction Diffusion Models]()]()
+[![Knowledge Distillation & Meta Learning](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Jeremiah.jpg?raw=true)]()
 
 **Medical Image Segmentation Using MedNeXt**  
 _Click the picture below to access the recorded video_  
-[![Introduction Diffusion Models]()]()
+[![Medical Image Segmentation Using MedNeXt](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Toufiq.jpg?raw=true)]()
 
 **Medical Image Segmentation Using nnUnet**  
 _Click the picture below to access the recorded video_  
-[![Introduction Diffusion Models]()]()
+[![Medical Image Segmentation Using nnUnet](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Atabonfack.jpg?raw=true)]()
 
 **Medical Image Segmentation Using Diffusion Model**  
 _Click the picture below to access the recorded video_  
-[![Introduction Diffusion Models]()]()
+[![Medical Image Segmentation Using Diffusion Model](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Moses.jpg?raw=true)]()
 
 
 ## 📊 Week 10 Presentation Slides
@@ -30,12 +35,8 @@ _Click the picture below to access the recorded video_
 ### 🔗 **Emerging Trends in Medical AI**
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
----
-
 ### 🔗 **Diffusion models for medical image segmentation**
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
-
-
 ---
 
 *"Every expert was once a beginner. Great journeys start with a single step."* – Keep going!  
