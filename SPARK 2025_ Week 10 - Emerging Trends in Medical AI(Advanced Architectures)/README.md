@@ -5,12 +5,10 @@
 **Preoperative Planning and Diagnosis and Staging**  
 _Click the picture below to access the recorded video_  
 [![Preoperative Planning & Diagnosis & Staging](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Dr.%20Nourou%20Dine.jpg?raw=true)]()
-Knowledge Distillation and Meta Learning
 
 **MRI Sequences & Protocols for Glioma**  
 _Click the picture below to access the recorded video_  
 [![MRI Sequences & Protocols for Glioma](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Dr.%20Amal.jpg?raw=true)]()
-Knowledge Distillation and Meta Learning
 
 **Knowledge Distillation and Meta Learning**  
 _Click the picture below to access the recorded video_  
