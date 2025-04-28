@@ -4,7 +4,7 @@
 
 **Clinical Primer & Computing Basic**  
 _Click the picture below to access the recorded video_  
-[![Clinical Primer & Computing Basic](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Dr.%20Nourou%20Dine.jpg?raw=true)](https://youtu.be/hEm2nhoU3pA)
+[![Clinical Primer & Computing Basic](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Clinical.jpg?raw=true)](https://youtu.be/hEm2nhoU3pA)
 
 **Preoperative Planning and Diagnosis and Staging**  
 _Click the picture below to access the recorded video_  
@@ -30,7 +30,7 @@ _Click the picture below to access the recorded video_
 ## 📊 Week 10 Presentation Slides
 ---
 ### 🔗 **Clinical Primer & Computing Basic**
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Week%2010_%20Slides/SPARK_2025_Week_10_Foundational_Course.pptx)
 
 ### 🔗 **Preoperative Planning and Diagnosis and Staging**
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
@@ -39,13 +39,13 @@ _Click the picture below to access the recorded video_
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
 ### 🔗 **Medical Image Segmentation Using MedNeXt**
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Week%2010_%20Slides/Medical%20Image%20Segmentation%20using%20MedNext.pptx)
 
 ### 🔗 **Medical Image Segmentation Using nnUnet**
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Week%2010_%20Slides/Medical%20Image%20Segmentation%20Using%20nnUnet.pdf)
 
 ### 🔗 **Medical Image Segmentation Using Diffusion Model**
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Week%2010_%20Slides/Diffusion%20Models.pptx)
 
 ---
 
@@ -57,8 +57,8 @@ _Click the picture below to access the recorded video_
 ### 📖 Run Notebooks on Kaggle  
 | Notebook Title                                                    | Run on Kaggle                                                                                                                                         |
 |-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Week 10: Medical image Segmentation Using MedNeXt**             | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |
-| **Week 10: Medical image Segmentation Using Diffusion Models**    | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |
+| **Week 10: Medical image Segmentation Using MedNeXt**             | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/week-10-medical-image-segmentation-using-mednext) |
+| **Week 10: Medical image Segmentation Using Diffusion Models**    | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/week-10-introduction-to-diffusion-models) |
 
 
 🚀 Click the links to open the notebooks in **Google Colab** or **Kaggle** for interactive coding!
