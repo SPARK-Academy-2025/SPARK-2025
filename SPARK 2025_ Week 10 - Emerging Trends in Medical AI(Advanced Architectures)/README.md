@@ -60,7 +60,8 @@ _Click the picture below to access the recorded video_
 | **Week 10: Medical image Segmentation Using MedNeXt**             | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/week-10-medical-image-segmentation-using-mednext) |
 | **Week 10: Medical image Segmentation Using Diffusion Models**    | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/week-10-introduction-to-diffusion-models) |
 
-
+[Week 10: Medical Image Segmentation Using nnUnet](https://github.com/MIC-DKFZ/nnUNet.git)
+  
 🚀 Click the links to open the notebooks in **Google Colab** or **Kaggle** for interactive coding!
 
 ---
