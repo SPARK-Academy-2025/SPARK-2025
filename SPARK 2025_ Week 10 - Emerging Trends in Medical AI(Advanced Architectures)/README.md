@@ -33,7 +33,7 @@ _Click the picture below to access the recorded video_
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Week%2010_%20Slides/SPARK_2025_Week_10_Foundational_Course.pptx)
 
 ### 🔗 **Preoperative Planning and Diagnosis and Staging**
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Week%2010_%20Slides/SPARK%20Academy%20Lecture_2_%202025_NDB.pdf)
 
 ### 🔗 **Knowledge Distillation and Meta Learning**
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
