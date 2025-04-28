@@ -2,37 +2,37 @@
 # 🚀 Welcome to SPARK 2025: Week 10 
 # Advanced Deep Learning Techniques II & Emerging Trends in Medical AI
 
+**Clinical Primer & Computing Basic**  
+_Click the picture below to access the recorded video_  
+[![Clinical Primer & Computing Basic](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Dr.%20Nourou%20Dine.jpg?raw=true)](https://youtu.be/hEm2nhoU3pA)
+
 **Preoperative Planning and Diagnosis and Staging**  
 _Click the picture below to access the recorded video_  
-[![Preoperative Planning & Diagnosis & Staging](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Dr.%20Nourou%20Dine.jpg?raw=true)]()
-
-<!-- **MRI Sequences & Protocols for Glioma**  
-_Click the picture below to access the recorded video_  
-[![MRI Sequences & Protocols for Glioma](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Dr.%20Amal.jpg?raw=true)]() -->
+[![Preoperative Planning & Diagnosis & Staging](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Dr.%20Nourou%20Dine.jpg?raw=true)](https://youtu.be/vBs0P_NZ6aM)
 
 **Knowledge Distillation and Meta Learning**  
 _Click the picture below to access the recorded video_  
-[![Knowledge Distillation & Meta Learning](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Jeremiah.jpg?raw=true)]()
+[![Knowledge Distillation & Meta Learning](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Jeremiah.jpg?raw=true)](https://youtu.be/DC2Uh3evNqg)
 
 **Medical Image Segmentation Using MedNeXt**  
 _Click the picture below to access the recorded video_  
-[![Medical Image Segmentation Using MedNeXt](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Toufiq.jpg?raw=true)]()
+[![Medical Image Segmentation Using MedNeXt](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Toufiq.jpg?raw=true)](https://youtu.be/g2NCLfWrzrc)
 
 **Medical Image Segmentation Using nnUnet**  
 _Click the picture below to access the recorded video_  
-[![Medical Image Segmentation Using nnUnet](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Atabonfack.jpg?raw=true)]()
+[![Medical Image Segmentation Using nnUnet](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Atabonfack.jpg?raw=true)](https://youtu.be/29CBuKcWiac)
 
 **Medical Image Segmentation Using Diffusion Model**  
 _Click the picture below to access the recorded video_  
-[![Medical Image Segmentation Using Diffusion Model](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Moses.jpg?raw=true)]()
+[![Medical Image Segmentation Using Diffusion Model](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Moses.jpg?raw=true)](https://youtu.be/EuLoC8AmQcE)
 
 
 ## 📊 Week 10 Presentation Slides
 ---
-### 🔗 **Preoperative Planning and Diagnosis and Staging**
+### 🔗 **Clinical Primer & Computing Basic**
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
-### 🔗 **MRI Sequences & Protocols for Glioma**
+### 🔗 **Preoperative Planning and Diagnosis and Staging**
 [![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
 ### 🔗 **Knowledge Distillation and Meta Learning**
