@@ -2,11 +2,15 @@
 # 🚀 Welcome to SPARK 2025: Week 10 
 # Advanced Deep Learning Techniques II & Emerging Trends in Medical AI
 
+**MRI Sequences & Protocols for Glioma**  
+_Click the picture below to access the recorded video_  
+[![MRI Sequences & Protocols for Glioma](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Dr.%20Amal.jpg?raw=true)](https://youtu.be/2onHAu180rM)
+
 **Clinical Primer & Computing Basic**  
 _Click the picture below to access the recorded video_  
 [![Clinical Primer & Computing Basic](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Clinical.jpg?raw=true)](https://youtu.be/hEm2nhoU3pA)
 
-**Preoperative Planning and Diagnosis and Staging**  
+**Preoperative Planning & Diagnosis & Staging**  
 _Click the picture below to access the recorded video_  
 [![Preoperative Planning & Diagnosis & Staging](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Dr.%20Nourou%20Dine.jpg?raw=true)](https://youtu.be/vBs0P_NZ6aM)
 
@@ -20,7 +24,7 @@ _Click the picture below to access the recorded video_
 
 **Medical Image Segmentation Using nnUnet**  
 _Click the picture below to access the recorded video_  
-[![Medical Image Segmentation Using nnUnet](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Atabonfack.jpg?raw=true)](https://youtu.be/29CBuKcWiac)
+[![Medical Image Segmentation Using nnUnet](https://github.com/SPARK-Academy-2025/SPARK-2025/blob/main/SPARK%202025_%20Week%2010%20-%20Emerging%20Trends%20in%20Medical%20AI(Advanced%20Architectures)/Atabonfack.jpg?raw=true)](https://youtu.be/XRUcUCkc7a8)
 
 **Medical Image Segmentation Using Diffusion Model**  
 _Click the picture below to access the recorded video_  
