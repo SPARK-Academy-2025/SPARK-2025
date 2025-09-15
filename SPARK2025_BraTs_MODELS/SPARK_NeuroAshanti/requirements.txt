@@ -1,0 +1,9 @@
+# requirements.txt
+
+-e causal-conv1d/
+-e mamba/
+-e nnUNet/
+
+-e mednext/
+
+monai
