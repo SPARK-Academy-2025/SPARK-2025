@@ -1,0 +1,23 @@
+{
+    "name": "BraTS",
+    "description": "BraTS-SSA 2025",
+    "reference": "None",
+    "licence": "None",
+    "release": "1.0 01/01/2025",
+    "tensorImageSize": "4D",
+    "channel_names": {
+        "0": "t1c",
+        "1": "t1n",
+        "2": "t2f",
+        "3": "t2w"
+    },
+    "labels": {
+        "background": 0,
+        "ET": 1,
+        "NET": 2,
+        "SNFH": 3
+    },
+    "numTraining": 60,
+    "numTest": 35,
+    "file_ending": ".nii.gz"
+}

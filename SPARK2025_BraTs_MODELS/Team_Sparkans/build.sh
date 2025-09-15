@@ -1,0 +1,1 @@
+docker build -t docker.synapse.org/syn68139217/sparkans2025:latest .
