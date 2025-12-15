@@ -1,0 +1,177 @@
+analysing data......
+  0%|          | 0/60 [00:00<?, ?it/s]  2%|▏         | 1/60 [00:01<00:59,  1.00s/it]  3%|▎         | 2/60 [00:02<01:02,  1.08s/it]  5%|▌         | 3/60 [00:03<00:59,  1.04s/it]  7%|▋         | 4/60 [00:04<00:58,  1.05s/it]  8%|▊         | 5/60 [00:05<00:56,  1.03s/it] 10%|█         | 6/60 [00:06<00:58,  1.09s/it] 12%|█▏        | 7/60 [00:07<00:58,  1.10s/it] 13%|█▎        | 8/60 [00:08<00:56,  1.09s/it] 15%|█▌        | 9/60 [00:09<00:56,  1.10s/it] 17%|█▋        | 10/60 [00:10<00:53,  1.07s/it] 18%|█▊        | 11/60 [00:11<00:51,  1.05s/it] 20%|██        | 12/60 [00:12<00:48,  1.01s/it] 22%|██▏       | 13/60 [00:13<00:46,  1.02it/s] 23%|██▎       | 14/60 [00:14<00:45,  1.01it/s] 25%|██▌       | 15/60 [00:15<00:44,  1.02it/s] 27%|██▋       | 16/60 [00:16<00:42,  1.04it/s] 28%|██▊       | 17/60 [00:17<00:43,  1.02s/it] 30%|███       | 18/60 [00:18<00:42,  1.02s/it] 32%|███▏      | 19/60 [00:19<00:41,  1.00s/it] 33%|███▎      | 20/60 [00:20<00:40,  1.01s/it] 35%|███▌      | 21/60 [00:21<00:39,  1.01s/it] 37%|███▋      | 22/60 [00:22<00:39,  1.05s/it] 38%|███▊      | 23/60 [00:23<00:37,  1.01s/it] 40%|████      | 24/60 [00:24<00:35,  1.00it/s] 42%|████▏     | 25/60 [00:25<00:35,  1.01s/it] 43%|████▎     | 26/60 [00:26<00:36,  1.06s/it] 45%|████▌     | 27/60 [00:28<00:36,  1.10s/it] 47%|████▋     | 28/60 [00:29<00:36,  1.13s/it] 48%|████▊     | 29/60 [00:30<00:33,  1.09s/it] 50%|█████     | 30/60 [00:31<00:32,  1.09s/it] 52%|█████▏    | 31/60 [00:32<00:31,  1.10s/it] 53%|█████▎    | 32/60 [00:33<00:30,  1.10s/it] 55%|█████▌    | 33/60 [00:34<00:29,  1.07s/it] 57%|█████▋    | 34/60 [00:35<00:27,  1.06s/it] 58%|█████▊    | 35/60 [00:36<00:25,  1.01s/it] 60%|██████    | 36/60 [00:37<00:24,  1.01s/it] 62%|██████▏   | 37/60 [00:38<00:23,  1.02s/it] 63%|██████▎   | 38/60 [00:39<00:24,  1.11s/it] 65%|██████▌   | 39/60 [00:40<00:23,  1.11s/it] 67%|██████▋   | 40/60 [00:42<00:22,  1.15s/it] 68%|██████▊   | 41/60 [00:43<00:21,  1.15s/it] 70%|███████   | 42/60 [00:44<00:20,  1.16s/it] 72%|███████▏  | 43/60 [00:45<00:20,  1.19s/it] 73%|███████▎  | 44/60 [00:46<00:18,  1.17s/it] 75%|███████▌  | 45/60 [00:48<00:17,  1.18s/it] 77%|███████▋  | 46/60 [00:49<00:16,  1.16s/it] 78%|███████▊  | 47/60 [00:50<00:14,  1.14s/it] 80%|████████  | 48/60 [00:51<00:13,  1.13s/it] 82%|████████▏ | 49/60 [00:52<00:12,  1.14s/it] 83%|████████▎ | 50/60 [00:53<00:10,  1.09s/it] 85%|████████▌ | 51/60 [00:54<00:09,  1.09s/it] 87%|████████▋ | 52/60 [00:55<00:08,  1.08s/it] 88%|████████▊ | 53/60 [00:56<00:07,  1.08s/it] 90%|█████████ | 54/60 [00:57<00:06,  1.05s/it] 92%|█████████▏| 55/60 [00:58<00:05,  1.06s/it] 93%|█████████▎| 56/60 [00:59<00:04,  1.02s/it] 95%|█████████▌| 57/60 [01:00<00:03,  1.04s/it] 97%|█████████▋| 58/60 [01:01<00:02,  1.06s/it] 98%|█████████▊| 59/60 [01:03<00:01,  1.13s/it]100%|██████████| 60/60 [01:04<00:00,  1.09s/it]100%|██████████| 60/60 [01:04<00:00,  1.07s/it]
+all spacing is [(1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0), (1.0, 1.0, 1.0)]
+all sizes is [(155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240), (155, 240, 240)]
+intensity_statistics_per_channel is {0: {'mean': 1951.30029296875, 'median': 762.0, 'std': 2713.693359375, 'min': 17.0, 'max': 15610.0, 'percentile_99_5': 13533.0, 'percentile_00_5': 191.0}, 1: {'mean': 2042.7216796875, 'median': 662.0, 'std': 2932.39892578125, 'min': 21.0, 'max': 13017.0, 'percentile_99_5': 10716.0, 'percentile_00_5': 252.0}, 2: {'mean': 1195.679931640625, 'median': 507.0, 'std': 1442.568115234375, 'min': 23.0, 'max': 10027.8115234375, 'percentile_99_5': 6033.76171875, 'percentile_00_5': 162.0}, 3: {'mean': 1554.537109375, 'median': 662.0, 'std': 2986.14208984375, 'min': 24.0, 'max': 49245.48828125, 'percentile_99_5': 24316.36328125, 'percentile_00_5': 235.0}}
+fullres spacing is [1. 1. 1.]
+median_shape is [155. 240. 240.]
+initial_patch_size is [256, 256, 256]
+target medium patch size is [256 256 256]
+Analysis done, save to ./data_analysis_result.txt
+BraTS-SSA-00002-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [141 169 132], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[0, 141], [26, 195], [56, 188]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00002-000.npz
+  0%|          | 0/60 [00:00<?, ?it/s]  2%|▏         | 1/60 [00:31<30:56, 31.46s/it]  3%|▎         | 2/60 [00:32<13:09, 13.60s/it]  5%|▌         | 3/60 [00:32<07:03,  7.44s/it]  7%|▋         | 4/60 [00:32<04:14,  4.54s/it]  8%|▊         | 5/60 [00:32<02:43,  2.98s/it] 10%|█         | 6/60 [00:33<01:49,  2.03s/it] 13%|█▎        | 8/60 [00:33<01:01,  1.18s/it] 15%|█▌        | 9/60 [00:37<01:33,  1.84s/it] 17%|█▋        | 10/60 [00:37<01:12,  1.45s/it] 20%|██        | 12/60 [00:38<00:44,  1.08it/s] 22%|██▏       | 13/60 [00:38<00:38,  1.21it/s] 23%|██▎       | 14/60 [00:38<00:29,  1.56it/s] 25%|██▌       | 15/60 [00:39<00:23,  1.91it/s] 28%|██▊       | 17/60 [00:43<00:51,  1.21s/it] 30%|███       | 18/60 [00:43<00:41,  1.01it/s] 32%|███▏      | 19/60 [00:43<00:32,  1.26it/s] 33%|███▎      | 20/60 [00:44<00:28,  1.40it/s] 35%|███▌      | 21/60 [00:44<00:22,  1.74it/s] 37%|███▋      | 22/60 [00:44<00:18,  2.01it/s] 38%|███▊      | 23/60 [00:45<00:18,  2.01it/s] 40%|████      | 24/60 [00:45<00:13,  2.61it/s] 42%|████▏     | 25/60 [00:48<00:42,  1.21s/it] 43%|████▎     | 26/60 [00:49<00:35,  1.03s/it] 45%|████▌     | 27/60 [00:49<00:27,  1.19it/s] 47%|████▋     | 28/60 [00:50<00:24,  1.30it/s] 48%|████▊     | 29/60 [00:50<00:18,  1.66it/s] 50%|█████     | 30/60 [00:50<00:14,  2.08it/s] 52%|█████▏    | 31/60 [00:51<00:13,  2.19it/s] 53%|█████▎    | 32/60 [00:51<00:15,  1.78it/s] 55%|█████▌    | 33/60 [00:53<00:21,  1.23it/s] 57%|█████▋    | 34/60 [00:54<00:27,  1.05s/it] 58%|█████▊    | 35/60 [00:55<00:22,  1.13it/s] 60%|██████    | 36/60 [00:55<00:16,  1.47it/s] 62%|██████▏   | 37/60 [00:56<00:19,  1.19it/s] 63%|██████▎   | 38/60 [00:57<00:16,  1.30it/s] 65%|██████▌   | 39/60 [00:57<00:13,  1.60it/s] 67%|██████▋   | 40/60 [00:58<00:11,  1.70it/s] 68%|██████▊   | 41/60 [00:58<00:11,  1.69it/s] 70%|███████   | 42/60 [00:59<00:11,  1.53it/s] 72%|███████▏  | 43/60 [01:01<00:14,  1.14it/s] 73%|███████▎  | 44/60 [01:01<00:10,  1.48it/s] 75%|███████▌  | 45/60 [01:03<00:16,  1.07s/it] 77%|███████▋  | 46/60 [01:03<00:12,  1.11it/s] 78%|███████▊  | 47/60 [01:03<00:09,  1.44it/s] 80%|████████  | 48/60 [01:04<00:08,  1.44it/s] 82%|████████▏ | 49/60 [01:04<00:05,  1.93it/s] 83%|████████▎ | 50/60 [01:05<00:05,  1.84it/s] 85%|████████▌ | 51/60 [01:06<00:07,  1.20it/s] 87%|████████▋ | 52/60 [01:07<00:05,  1.56it/s] 88%|████████▊ | 53/60 [01:08<00:06,  1.01it/s] 90%|█████████ | 54/60 [01:09<00:05,  1.15it/s] 92%|█████████▏| 55/60 [01:09<00:03,  1.43it/s] 93%|█████████▎| 56/60 [01:09<00:02,  1.92it/s] 97%|█████████▋| 58/60 [01:10<00:00,  2.26it/s] 98%|█████████▊| 59/60 [01:11<00:00,  2.19it/s]100%|██████████| 60/60 [01:11<00:00,  2.40it/s]100%|██████████| 60/60 [01:11<00:00,  1.19s/it]
+BraTS-SSA-00015-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [154 178 150], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[0, 154], [24, 202], [47, 197]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00015-000.npz
+BraTS-SSA-00047-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [139 175 135], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[10, 149], [21, 196], [52, 187]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00047-000.npz
+BraTS-SSA-00068-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [150 128 133], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[1, 151], [18, 146], [55, 188]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00068-000.npz
+BraTS-SSA-00081-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [138 168 141], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[7, 145], [26, 194], [50, 191]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00081-000.npz
+BraTS-SSA-00115-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [135 163 141], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[9, 144], [31, 194], [50, 191]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00115-000.npz
+BraTS-SSA-00131-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [143 177 136], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[1, 144], [23, 200], [53, 189]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00131-000.npz
+BraTS-SSA-00161-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [150 179 131], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[0, 150], [22, 201], [56, 187]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00161-000.npz
+BraTS-SSA-00008-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [145 183 141], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[0, 145], [20, 203], [51, 192]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00008-000.npz
+BraTS-SSA-00041-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [146 139 122], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[3, 149], [26, 165], [61, 183]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00041-000.npz
+BraTS-SSA-00051-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [149 137 126], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[6, 155], [22, 159], [59, 185]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00051-000.npz
+BraTS-SSA-00076-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [141 165 139], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[8, 149], [24, 189], [52, 191]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00076-000.npz
+BraTS-SSA-00097-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [153 135 128], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[0, 153], [23, 158], [58, 186]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00097-000.npz
+BraTS-SSA-00120-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [124 173 139], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[13, 137], [27, 200], [50, 189]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00120-000.npz
+BraTS-SSA-00144-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [142 178 138], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[3, 145], [22, 200], [52, 190]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00144-000.npz
+BraTS-SSA-00220-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [150 132 124], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[3, 153], [21, 153], [55, 179]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00220-000.npz
+BraTS-SSA-00014-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [140 172 143], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[6, 146], [26, 198], [51, 194]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00014-000.npz
+BraTS-SSA-00044-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [148 169 126], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[6, 154], [46, 215], [59, 185]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00044-000.npz
+BraTS-SSA-00074-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [141 174 142], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[3, 144], [25, 199], [51, 193]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00074-000.npz
+BraTS-SSA-00096-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [140 164 140], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[4, 144], [28, 192], [50, 190]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00096-000.npz
+BraTS-SSA-00117-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [142 178 148], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[0, 142], [22, 200], [48, 196]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00117-000.npz
+BraTS-SSA-00135-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [135 192 131], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[10, 145], [16, 208], [55, 186]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00135-000.npz
+BraTS-SSA-00213-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [128 178 138], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[12, 140], [22, 200], [52, 190]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00213-000.npz
+BraTS-SSA-00007-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [141 175 147], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[11, 152], [22, 197], [50, 197]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00007-000.npz
+BraTS-SSA-00046-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [131 165 129], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[8, 139], [29, 194], [56, 185]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00046-000.npz
+BraTS-SSA-00057-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [140 182 135], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[1, 141], [22, 204], [54, 189]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00057-000.npz
+BraTS-SSA-00095-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [138 180 143], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[0, 138], [23, 203], [50, 193]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00095-000.npz
+BraTS-SSA-00119-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [126 167 134], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[15, 141], [26, 193], [54, 188]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00119-000.npz
+BraTS-SSA-00141-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [142 186 133], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[4, 146], [21, 207], [55, 188]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00141-000.npz
+BraTS-SSA-00215-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [132 165 126], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[8, 140], [24, 189], [58, 184]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00215-000.npz
+BraTS-SSA-00011-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [139 175 131], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[8, 147], [22, 197], [57, 188]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00011-000.npz
+BraTS-SSA-00026-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [143 172 134], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[4, 147], [23, 195], [55, 189]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00026-000.npz
+BraTS-SSA-00050-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [134 178 144], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[8, 142], [23, 201], [49, 193]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00050-000.npz
+BraTS-SSA-00080-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [126 164 133], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[20, 146], [29, 193], [57, 190]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00080-000.npz
+BraTS-SSA-00110-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [119 167 138], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[25, 144], [29, 196], [51, 189]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00110-000.npz
+BraTS-SSA-00122-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [138 178 135], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[5, 143], [21, 199], [53, 188]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00122-000.npz
+BraTS-SSA-00146-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [144 179 127], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[0, 144], [22, 201], [57, 184]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00146-000.npz
+BraTS-SSA-00221-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [142 177 134], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[5, 147], [19, 196], [54, 188]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00221-000.npz
+BraTS-SSA-00012-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [136 168 132], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[8, 144], [25, 193], [55, 187]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00012-000.npz
+BraTS-SSA-00028-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [132 173 142], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[11, 143], [23, 196], [51, 193]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00028-000.npz
+BraTS-SSA-00055-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [148 154 143], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[0, 148], [50, 204], [48, 191]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00055-000.npz
+BraTS-SSA-00092-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [145 178 139], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[0, 145], [23, 201], [51, 190]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00092-000.npz
+BraTS-SSA-00116-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [127 187 153], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[17, 144], [19, 206], [45, 198]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00116-000.npz
+BraTS-SSA-00133-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [137 180 130], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[5, 142], [21, 201], [56, 186]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00133-000.npz
+BraTS-SSA-00202-000~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+old shape: (4, 155, 240, 240), new_shape after crop and resample: [133 173 132], old_spacing: [1.0, 1.0, 1.0], new_spacing: [1.0, 1.0, 1.0], boxes is [[13, 146], [24, 197], [53, 185]]
+data is saved at: /home/spark17/TeamLimitless/experiments/segmamba/data/fullres/train/BraTS-SSA-00202-000.npz
+analysing data......
+  0%|          | 0/35 [00:00<?, ?it/s]  0%|          | 0/35 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/spark17/TeamLimitless/experiments/segmamba/segmamba_baseline/SegMamba/2_preprocessing_mri.py", line 55, in <module>
+    plan(image_dir=val_image_dir)
+  File "/home/spark17/TeamLimitless/experiments/segmamba/segmamba_baseline/SegMamba/2_preprocessing_mri.py", line 43, in plan
+    preprocessor.run_plan()
+  File "/home/spark17/TeamLimitless/experiments/segmamba/segmamba_baseline/SegMamba/light_training/preprocessing/preprocessors/default_preprocessor.py", line 354, in run_plan
+    spacing, size, intensities_per_channel = self.experiment_plan(case)
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/spark17/TeamLimitless/experiments/segmamba/segmamba_baseline/SegMamba/light_training/preprocessing/preprocessors/default_preprocessor.py", line 296, in experiment_plan
+    data, seg, properties = self.read_data(case_name)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/spark17/TeamLimitless/experiments/segmamba/segmamba_baseline/SegMamba/light_training/preprocessing/preprocessors/preprocessor_mri.py", line 63, in read_data
+    d = sitk.ReadImage(os.path.join(self.base_dir, self.image_dir, case_name, dfname))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/spark17/TeamLimitless/experiments/segmamba/segmamba_env/lib/python3.11/site-packages/SimpleITK/extra.py", line 375, in ReadImage
+    return reader.Execute()
+           ^^^^^^^^^^^^^^^^
+  File "/home/spark17/TeamLimitless/experiments/segmamba/segmamba_env/lib/python3.11/site-packages/SimpleITK/SimpleITK.py", line 8430, in Execute
+    return _SimpleITK.ImageFileReader_Execute(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Exception thrown in SimpleITK ImageFileReader_Execute: /tmp/SimpleITK/Code/IO/src/sitkImageReaderBase.cxx:97:
+sitk::ERROR: The file "/home/spark17/TeamLimitless/experiments/segmamba/data/raw_data/BraTS2023/BraTS2024-SSA-Challenge-ValidationData/BraTS-SSA-00125-000/t2w.nii.gz" does not exist.
+Starting SegMamba training script...
+Changed directory to /home/spark17/TeamLimitless/experiments/segmamba/segmamba_baseline/SegMamba
+Successfully ran /home/spark17/TeamLimitless/experiments/segmamba/segmamba_baseline/SegMamba
+256
+cp: cannot stat 'best_segmamba_model.pth': No such file or directory
+cp: cannot stat 'training_history.json': No such file or directory
+cp: cannot stat '*.err': No such file or directory
