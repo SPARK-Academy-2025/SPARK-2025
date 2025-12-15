@@ -1,1 +1,0 @@
-{"name": "Dataset001_Inference", "description": "Nothing to say here", "channel_names": {"0": "t1n", "1": "t1c", "2": "t2w", "3": "t2f"}, "labels": {"background": 0, "whole": 1, "enhancing tumor": 2, "core": 3}, "file_ending": ".nii.gz", "numTraining": 0, "numTest": 60}
